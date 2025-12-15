@@ -20,7 +20,7 @@ A cross-platform desktop application built with **wxPython** for interactive aud
 
 ## Features
 
-### 🎧 Sound Tab
+###  Sound Tab
 
 1. **Audio I/O**: Load WAV files or record from microphone.
 2. **Visualization**:
@@ -42,7 +42,7 @@ A cross-platform desktop application built with **wxPython** for interactive aud
 
    * Cross-product mixing: compute vector cross-products of FFT components, project onto a plane, reconstruct audio via inverse FFT.
 
-### 🖼 Image Tab
+###  Image Tab
 
 1. **Image I/O**: Load two RGB images.
 2. **Preprocessing**: Crop to a common square size.
